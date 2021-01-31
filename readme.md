@@ -25,11 +25,12 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 > Delete this section from your readme
 
 - Fill in *usage, screenshots, and thanks to* sections
-- Lowercase repo name, description and `readme.md`
-- Description should be "soho vibes for example app"
+- Lowercase repo name and doc files eg. `readme.md`
+- Description should be "Soho vibes for Example App"
 - Supported versions are allowed in readme header, eg. "Rosé Pine for Example App 3" but discouraged from repo name
 
 ## Social preview
+
 > Delete this section from your readme
 
 - Generate & upload a custom social preview image for your repo with [Rosé Pine Images](https://rose-pine-images.vercel.app/)
