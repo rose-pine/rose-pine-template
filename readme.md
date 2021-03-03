@@ -33,3 +33,4 @@
 - Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
 - Format repo description as "Soho vibes for App"
 - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- Note that if you are forking a project for Rosé Pine and plan on making a pull request, you should follow the project author's READNE. After it's merged (or denied) from the original project, you should make it back into the regular template with an archival notice. [Here is a good example.](https://github.com/rose-pine/monkeytype)
