@@ -25,6 +25,16 @@
 
 - [You, it's you!](https://github.com/<username>)
 
+## Contributing
+
+> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
+
+Modify `template.json` using Rosé Pine variables, then build variants:
+
+```sh
+npx @rose-pine/build@latest
+```
+
 ## Style guide
 
 > Be sure to remove this section 😌
