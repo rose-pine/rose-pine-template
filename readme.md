@@ -19,7 +19,7 @@
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
 
 ## Thanks to
 
