@@ -43,5 +43,5 @@ npx @rose-pine/build@latest
 - Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
 - Add a description and topics to automatically add the theme to the [Rosé Pine site](https://rosepinetheme.com/themes)
     - Description should read "Soho vibes for App" where "App" is the display name
-    - Topics should include "theme"
+    - Topics should include "theme" as well as any other categories. See [existing categories](https://rosepinetheme.com/themes), only adding new ones when necessary
 - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
