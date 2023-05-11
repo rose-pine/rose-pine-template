@@ -41,5 +41,7 @@ npx @rose-pine/build@latest
 
 - Lowercase meta files, eg. `readme.md`
 - Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
+- Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
+    - Description should read "Soho vibes for App" where "App" is the display name
+    - Topics should include "theme" as well as any other categories. See [existing categories](https://rosepinetheme.com/themes), only adding new ones when necessary
 - Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
