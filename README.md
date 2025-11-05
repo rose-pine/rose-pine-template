@@ -36,14 +36,3 @@ Modify `template.json` using Rosé Pine variables, then build variants:
 ```sh
 npx @rose-pine/build@latest
 ```
-
-## Style guide
-
-> 💜 Be sure to remove this section 💜
-
-- [ ] **Repository name**: Use the simplest form of the app name (e.g. `iterm` instead of `iTerm2`)
-- [ ] **Files**: Use uppercase for meta filenames (e.g. `README.md` and `LICENSE`)
-- [ ] **Description**: Set to "Soho vibes for App"—use the full app name (e.g. "Visual Studio Code" instead of "VSCode")
-- [ ] **Topics**: Add relevant tags to improve discoverability
-- [ ] **Custom properties**: Set the display name and tags (used on the website)
-- [ ] **Social image**: Generate and upload via [Rosé Pine Images](https://rose-pine-images.vercel.app)
